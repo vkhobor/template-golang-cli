@@ -1,3 +1,3 @@
 module github.com/gitpod/mycli
 
-go 1.18
+go 1.1
